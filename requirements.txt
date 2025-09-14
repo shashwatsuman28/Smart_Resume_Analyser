@@ -1,0 +1,12 @@
+streamlit
+streamlit-tags
+plotly
+youtube_dl
+pymysql
+spacy>=3.6.0
+pdfminer.six
+nltk
+wordcloud
+PyPDF2
+
+
